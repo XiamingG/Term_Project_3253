@@ -18,8 +18,10 @@ This notebook classifies movie reviews as positive or negative using the text of
 ## Presentation URL
 PPT 
 
-Videos
+XiamingG_SCS3253_Final_presentation.pptx 
 
+Videos
+https://youtu.be/rquL3YI-Z7Q
 
 ## Dataset
 
