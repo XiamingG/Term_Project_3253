@@ -41,6 +41,7 @@ Using Pipeline and
 * This fixed-length output vector is piped through a fully-connected (Dense) layer with (2000, 500, 200, 50, 16) hidden units.  <br>
 * The last layer is densely connected with a single output node. Using the sigmoid activation function, this value is a float between 0 and 1, representing a probability, or confidence level..<br>
 * Loss function and optimizer<br>
+ ![CNN_module](img/multi_CNN_movie_reviews.png)  
 
 ## Solution
 
