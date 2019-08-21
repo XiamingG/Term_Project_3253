@@ -33,7 +33,7 @@ Using Pipeline and
 * MultinomialNB
 
 ### Solution
-![NB_result]img/NB_result.png
+![NB_result](img/NB_result.png)
 
 ## Deep Convolutional Neural Networks （CNN）
 * Input layer, which defines the length of the input sequence.
@@ -47,8 +47,8 @@ Using Pipeline and
  ![CNN_module](img/multi_CNN_movie_reviews.png)  
 
 ### Solution
-![CNN_result]img/CNN_result.png
-![CNN_result]img/CNN_result2.jpg
+![CNN_result](img/CNN_result.png)
+![CNN_result](img/CNN_result2.jpg)
 
 
 
