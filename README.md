@@ -42,3 +42,6 @@ Using Pipeline and
 * The last layer is densely connected with a single output node. Using the sigmoid activation function, this value is a float between 0 and 1, representing a probability, or confidence level..<br>
 * Loss function and optimizer<br>
 
+## Solution
+
+
