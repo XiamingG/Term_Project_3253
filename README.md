@@ -1,2 +1,3 @@
-# Term_Project_3253
-This project is for course 3253 Machine Learning term project
+#Sentiment Analysis of Chinese Short Texts
+
+This project is for course scs3253 Machine Learning term project
