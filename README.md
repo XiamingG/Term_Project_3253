@@ -21,7 +21,7 @@ PPT
 XiamingG_SCS3253_Final_presentation.pptx 
 
 Videos
-https://youtu.be/rquL3YI-Z7Q
+https://youtu.be/gBQV1N8ebls
 
 ## Dataset
 
