@@ -32,6 +32,9 @@ Using Pipeline and
 * CountVectorizer
 * MultinomialNB
 
+### Solution
+![NB_result]img/NB_result.png
+
 ## Deep Convolutional Neural Networks （CNN）
 * Input layer, which defines the length of the input sequence.
 * Embedding layer. Define the matrix as vocab_size×64, every trainning batch is maxword×64 <br>
@@ -43,6 +46,10 @@ Using Pipeline and
 * Loss function and optimizer<br>
  ![CNN_module](img/multi_CNN_movie_reviews.png)  
 
-## Solution
+### Solution
+![CNN_result]img/CNN_result.png
+![CNN_result]img/CNN_result2.png
+
+
 
 
