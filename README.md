@@ -48,7 +48,7 @@ Using Pipeline and
 
 ### Solution
 ![CNN_result]img/CNN_result.png
-![CNN_result]img/CNN_result2.png
+![CNN_result]img/CNN_result2.jpg
 
 
 
