@@ -13,7 +13,13 @@ This notebook classifies movie reviews as positive or negative using the text of
 
 * Naive_bayes Model to Classfire the reviews
 
-* tf.keras, a high-level API to build and train models in TensorFlow. 
+* tf.keras, a high-level API to build and train models in TensorFlow. CNN 
+
+## Presentation URL
+PPT 
+
+Videos
+
 
 ## Dataset
 
@@ -22,6 +28,8 @@ This notebook classifies movie reviews as positive or negative using the text of
 Dataset is from https://www.kaggle.com/utmhikari/doubanmovieshortcomments.
 
 Douban Movie is a Chinese website that allows Internet users to share their comments and viewpoints about movies. Users are able to post short or long comments on movies and give them marks. 
+
+The dataset is more than 25mb, so you need to download by self. 
 
 ### Stopwords 
 The library for stop words is from https://github.com/goto456/stopwords Use the "哈工大停用词表.txt"
